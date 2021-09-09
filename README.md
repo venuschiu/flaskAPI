@@ -1,4 +1,17 @@
+# Data Structures with Flask
+
+
+
+# Tools Used
+Postman
+DB Browser for SQLite
+
+
+
+
 # Steps
+# fghfgh
+
 
 1. set up env folder
 ```
@@ -18,6 +31,9 @@ db.create_all()
 ```
 1. create datatbase,
 
+_fasdfasdf
+sadfsadf_
 
 
-
+# Reference
+<https://youtu.be/74NW-84BqbA>
